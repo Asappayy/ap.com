@@ -373,7 +373,7 @@ gap: 30px;
         flex-direction: column;
     }
 
-    .navbar .ul {
+    .navbar ul {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
     }
