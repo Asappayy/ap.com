@@ -364,7 +364,7 @@ gap: 30px;
 
 
 /* Mobile */
-@media (max-width: 300px) {
+@media (max-width: 500px) {
     .navbar{
         height: 110px;
     }
